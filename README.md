@@ -1,6 +1,6 @@
 # Pixelstick
 
-Pixelstick is a [GP2040-CE](https://gp2040-ce.info/) based retro joystick. It is a simple, high quality joystick with a high quality lever and 2-4 push buttons using genuine arcade parts (Sanwa/Seimitsu style).
+Pixelstick is a [GP2040-CE](https://gp2040-ce.info/) based retro joystick. It is a simple, high quality joystick with genuine arcade parts (Sanwa lever and 2-4 Qanba Gravity KS push buttons).
 
 Being GP2040-CE based, it offers multi-platform compatibility, very low latency and endless customization possibilities.
 
@@ -8,15 +8,16 @@ The design is inspired by the awesome [Immortal Joystick](https://www.immortaljo
 
 Common features:
 - RP2040 Mini Breakout Board (for GP2040-CE)
-- 2-4 action buttons (30 mm arcade push buttons)
-- Modifier/Fn button (24 mm arcade push button)
+- Sanwa JLX2 lever
+- 2/4 action buttons (Qanba Gravity KS 30 mm push buttons)
+- Modifier/Fn button (Qanba Gravity KS 24 mm push button)
 - 2 rocker switches for Turbo and Focus Mode (or any other toggleable features supported by GP2040-CE)
-- Detachable USB cable
+- Detachable USB cable with push-pull locking system
 
 Currently there are designs for these variants:
-- PixelStick S (right stick), compact size with stick on the right side, 2 action buttons
-- PixelStick S (left stick), same as above but with stick on the left side
-- PixelStick M (right stick), slightly larger size with stick on the right side, 4 action buttons
+- Pixelstick S (right stick), compact size with stick on the right side, 2 action buttons
+- Pixelstick S (left stick), same as above but with stick on the left side
+- Pixelstick M (right stick), slightly larger size with stick on the right side, 4 action buttons
 
 ## Tools
 
