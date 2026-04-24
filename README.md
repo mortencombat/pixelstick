@@ -7,6 +7,7 @@ Being GP2040-CE based, it offers multi-platform compatibility, very low latency 
 The design is inspired by the awesome [Immortal Joystick](https://www.immortaljoysticks.co.uk/).
 
 Common features:
+
 - RP2040 Mini Breakout Board (for GP2040-CE)
 - Sanwa JLX2 lever
 - 2/4 action buttons (Qanba Gravity KS 30 mm push buttons)
@@ -15,6 +16,7 @@ Common features:
 - Detachable USB cable with push-pull locking system
 
 Currently there are designs for these variants:
+
 - Pixelstick S (right stick), compact size with stick on the right side, 2 action buttons
 - Pixelstick S (left stick), same as above but with stick on the left side
 - Pixelstick M (right stick), slightly larger size with stick on the right side, 4 action buttons
@@ -24,7 +26,6 @@ Currently there are designs for these variants:
 - Drill stand with drill, or column drill machine
 - Soldering iron
 - **TBD**
-
 
 ## BoM
 
@@ -51,8 +52,10 @@ Currently there are designs for these variants:
 2. Other brands might be possible but verify clearance especially in small enclosure (S model), the Qanba Gravity is a bit shallower than most other brands
 3. Instead of this 3-pin to 2x 2-pin DIY detachable harness, you can use two pins from the 20-pin harness instead, although the fit on the rocker switch terminals is not quite as secure and the fit/clearance will be quite tight
 
-
-
 ## Assembly
 
-**TBD**
+1. Print drill guides and fix to enclosures using masking tape or similar
+2. Drill Ø3 mm holes (screw holes) and Ø2 mm holes (alignment keyway for rocker switches)
+3. Drill countersinks for the 4x JLX2 screw holes
+4. Drill pilot holes for the big holes (pilot hole diameter = step drill tip diameter), then drill the full holes using step drill
+5. **TBD**
