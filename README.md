@@ -1,6 +1,6 @@
 # Pixelstick
 
-Pixelstick is a [GP2040-CE](https://gp2040-ce.info/) based retro joystick. It is a simple, high quality joystick with genuine arcade parts (Sanwa lever and 2-4 Qanba Gravity KS push buttons).
+Pixelstick is a [GP2040-CE](https://gp2040-ce.info/) based retro joystick. It is a simple, compact, high quality joystick with genuine arcade parts (Sanwa lever and 2/4 Qanba Gravity KS push buttons).
 
 Being GP2040-CE based, it offers multi-platform compatibility, very low latency and endless customization possibilities.
 
@@ -41,9 +41,9 @@ Currently there are designs for these variants:
 | 20-pin harness | 1 | [AdditiveArcade](https://additivearcade.com/products/breakout-board-cables?variant=57570094809469) | |
 | M3x10 black countersunk bolts | 4 | Hardware store | For mounting of JLX2 |
 | M3x8 black countersunk bolts + nuts | 2 | Hardware store | For mounting of NAUSB-W-B |
-| JST PH 2.0 mm 3-pin female to bare wire, 100+ mm | 1 | Mouser | 1) |
-| JST PH 2.0 mm 2-pin female to bare wire, 100+ mm | 2 | Mouser | 1) |
-| JST PH 2.0 mm 2-pin male to bare wire, 100+ mm | 2 | Mouser | 1) |
+| JST PH 2.0 mm 3-pin female to bare wire, 100+ mm | 1 | [Mouser](https://mouser.com) | 3) |
+| JST PH 2.0 mm 2-pin female to bare wire, 100+ mm | 2 | [Mouser](https://mouser.com) | 3) |
+| JST PH 2.0 mm 2-pin male to bare wire, 100+ mm | 2 | [Mouser](https://mouser.com) | 3) |
 
 ### Notes
 
